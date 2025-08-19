@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8e7; /* fundo suave */
+  margin: 0;
+  padding: 0;
+}
+
+.slide {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #d4af37; /* cor ouro */
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.slide h1 {
+  color: #b8860b; /* cor ouro escuro */
+}
+
+.slide p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.imagem-slide {
+  margin-top: 20px;
+  width: 100%; /* ocupa toda a largura do slide */
+  max-width: 600px; /* não fica muito grande */
+  border-radius: 10px;
+}
